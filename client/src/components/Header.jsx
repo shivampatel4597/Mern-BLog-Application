@@ -39,7 +39,7 @@ const Header = () => {
 
         </div>
       <div className='flex items-center gap-2 md:order-2'>
-        <button className='w-12 h-8 hidden sm:inline  text-gray-500 rounded bg-blue-300'>
+        <button className='w-12 h-8 hidden sm:inline  text-black bg-white rounded bg-blue-300'>
           <FontAwesomeIcon icon={faMoon} />
         </button>
         <Link to="/signin">
