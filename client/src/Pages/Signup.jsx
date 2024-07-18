@@ -42,7 +42,7 @@ setLoading(false);
   }
   
   return (
-    <div className='h-full  mt-20 '>
+    <div className='h-full  mt-20 mb-10'>
     <div className='flex flex-col items-center  lg:flex-row  lg:items-center p-10 bg-blue-100 max-w-3xl mx-auto  border-black rounded-md gap-16'>
       {/* left side */}
   <div >
